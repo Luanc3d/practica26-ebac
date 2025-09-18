@@ -15,6 +15,6 @@ function calcularEdad(fechaNacimiento) {
     return edad;
 }
 var nombre = "Luis";
-var fecha = "1982-09-15";
+var fecha = "2020-09-15";
 var edad = calcularEdad(fecha);
 console.log("".concat(nombre, " tiene ").concat(edad, " a\u00F1os."));

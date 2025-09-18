@@ -24,7 +24,7 @@ function calcularEdad(fechaNacimiento: string): number {
 
 
 const nombre: string = "Luis";
-const fecha: string = "1982-09-15";
+const fecha: string = "2020-09-15";
 const edad: number = calcularEdad(fecha);
 
 console.log(`${nombre} tiene ${edad} años.`);
